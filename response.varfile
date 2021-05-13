@@ -1,0 +1,7 @@
+installModule=client
+installationDir=/usr/local/PPB
+sys.adminRights$Boolean=true
+sys.component.588$Boolean=true
+sys.component.589$Boolean=false
+sys.installationDir=/usr/local/PPB
+sys.languageId=en
